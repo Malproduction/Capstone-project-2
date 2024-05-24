@@ -1,0 +1,19 @@
+#top-container {
+    background-color: #799351;
+}
+.img-fluid {
+    width: 100%;
+}
+#second-container {
+    background-color: #A1DD70;
+}
+#me {
+    border-radius: 25%;
+    height: 175px;
+}
+#third-container {
+    background-color: #F6EEC9;
+}
+#bottom-container {
+    background-color: #EE4E4E;
+}
